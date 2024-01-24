@@ -4,7 +4,7 @@
 
 ## Beschreibung:
 Es handlet sich hier um die Aufgaben vom Mathe Labor des ersten Semester in der Programmiersprache Python. 
-Der Code wird über Anaconda Notbook ausgeführt. Aufgabenstellung ist im Code!
+Aufgabenstellung ist im Code! Repository wird nicht mehr gewartet und nur noch in read-only.
 
 
 ## Verzeichnis:
